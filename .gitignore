@@ -1,4 +1,4 @@
 *.pyc
 __pycache__
 venv/
-server_data.py  # Если там пароли
+server_data.py
